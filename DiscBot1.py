@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Script for Discord Kaulu Bot to pull lmgtfy links and spam IT crowd quotes
+#Script for Discord Bot to pull lmgtfy links and spam IT crowd quotes
 #Version 1.0
 #Author: Cr1ms3nRav3n
 
